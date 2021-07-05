@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-family: "Great Vibes", cursive;
+  font-size: 20px;
+}
+
+.navbar {
+  z-index: 999;
+}
+
+.carousel {
+  margin-top: -65px;
+}
+
+footer {
+  height: 50px;
+  background-color: rgb(104, 101, 101);
+}
